@@ -18,7 +18,7 @@ RUB 3566.308
 ```
 
 ## Alias
-To use this script with Terminal as fast command just add this string to your `~/.bas_profile`:
+To use this script with Terminal as fast command just add this string to your `~/.bash_profile`:
 ```
 alias curconv="ruby ~/currency.rb"
 ```
