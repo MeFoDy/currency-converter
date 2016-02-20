@@ -3,7 +3,7 @@
 Currency converter using YAHOO API
 
 ---
-## Using
+## Usage
 
 Just call `currency.rb` as `ruby currency.rb [amount] [currency]`, where
 * `amount` - amount of your money (1000 default);
